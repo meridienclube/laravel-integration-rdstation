@@ -1,10 +1,6 @@
-# Package Vendor Laravel
+# Package Integration RD Station Laravel
 
-Base package for all other laravel packages
-
-## layouts
-
-Include for icon usage the following google library <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+Integration package between CW Integrations and RD Station
 
 ## License
 

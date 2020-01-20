@@ -3,7 +3,7 @@
 namespace ConfrariaWeb\IntegrationRdStation\Providers;
 
 use Illuminate\Support\ServiceProvider;
-use MeridienClube\Meridien\Services\Integrations\RdStationService;
+use ConfrariaWeb\IntegrationRdStation\Services\RdStationService;
 
 class IntegrationRdStationServiceProvider extends ServiceProvider
 {

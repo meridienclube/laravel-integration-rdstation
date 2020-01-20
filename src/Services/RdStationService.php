@@ -1,8 +1,8 @@
 <?php
 
-namespace MeridienClube\Meridien\Services\Integrations;
+namespace ConfrariaWeb\IntegrationRdStation\Services\Integrations;
 
-use MeridienClube\Meridien\Services\Contracts\IntegrationContract;
+use ConfrariaWeb\Integration\Services\Contracts\IntegrationContract;
 
 class RdStationService implements IntegrationContract
 {
