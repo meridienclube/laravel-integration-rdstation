@@ -15,7 +15,7 @@ class IntegrationRdStationServiceProvider extends ServiceProvider
 
     public function register()
     {
-        $this->app->bind('RdStationService', function () {
+        $this->app->bind('IntegrationRdStationService', function () {
             return new RdStationService();
         });
     }
