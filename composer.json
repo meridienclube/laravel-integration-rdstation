@@ -13,7 +13,9 @@
             "email": "confrariaweb@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "confrariaweb/laravel-integration": "dev-master"
+    },
     "autoload": {
         "psr-4": {
             "ConfrariaWeb\\IntegrationRdStation\\": "src"
