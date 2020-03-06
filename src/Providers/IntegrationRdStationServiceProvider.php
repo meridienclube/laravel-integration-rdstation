@@ -10,7 +10,7 @@ class IntegrationRdStationServiceProvider extends ServiceProvider
 
     public function boot()
     {
-
+        $this->loadViewsFrom(__DIR__ . '/../Views', 'integrationRdStation');
     }
 
     public function register()

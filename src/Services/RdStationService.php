@@ -1,6 +1,6 @@
 <?php
 
-namespace ConfrariaWeb\IntegrationRdStation\Services\Integrations;
+namespace ConfrariaWeb\IntegrationRdStation\Services;
 
 use ConfrariaWeb\Integration\Services\Contracts\IntegrationContract;
 
