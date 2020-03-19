@@ -1,5 +1,5 @@
 {
-    "name": "confrariaweb/laravel-integration-rdstation",
+    "name": "meridienclube/laravel-integration-rdstation",
     "version": "dev-master",
     "description": "Motor para todos os componentes",
     "keywords": [
@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "confrariaweb/laravel-integration": "dev-master"
+        "meridienclube/laravel-integration": "dev-master"
     },
     "autoload": {
         "psr-4": {
